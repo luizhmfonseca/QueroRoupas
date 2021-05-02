@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778076290503",
+    "project_id": "queroroupas-c73b1",
+    "storage_bucket": "queroroupas-c73b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778076290503:android:13badf8652e1cd0025ede2",
+        "android_client_info": {
+          "package_name": "com.example.quero_roupas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778076290503-hl56kc1eaub5rak1oiiece2rmipds5ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegRN2Y3iGFaAG4R9Q_bJmYLs6XqBleRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778076290503-hl56kc1eaub5rak1oiiece2rmipds5ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
